@@ -17,7 +17,7 @@ Microsoft(c) Word 2019, Microsoft(c) Word 365
 3. ToPixivTextFormat関数を実行します。
 
 ## 変換される機能
-###セリフ段落
+### セリフ段落
 加工は行いません。
 
 ### 地の文段落
